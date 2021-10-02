@@ -10,7 +10,7 @@ body {
 @media (min-width: 500px) {
   body {
     display: flex;
-    padding: 6.25rem 1.5rem 3rem 1.5rem;
+    padding: 7rem 1.5rem 0 1.5rem;
   }
 }
 
@@ -29,7 +29,7 @@ body {
 }
 @media (min-width: 968px) {
   .card {
-    padding: 4rem;
+    padding: 3rem 4rem;
   }
 }
 .card__image {
